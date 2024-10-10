@@ -12,5 +12,6 @@
 		"type": "git",
 		"url": "https://github.com/freeCodeCamp/boilerplate-npm.git"
 	},
-	"author": "Nathaniel Ahy"
+	"author": "Nathaniel Ahy",
+	"description": "My freeCodeCamp backend project"
 }
